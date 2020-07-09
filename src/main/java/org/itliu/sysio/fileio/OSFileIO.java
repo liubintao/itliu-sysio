@@ -1,4 +1,4 @@
-package org.itliu.sysio;
+package org.itliu.sysio.fileio;
 
 import org.junit.Test;
 
